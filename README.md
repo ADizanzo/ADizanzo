@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Soy Augusto Dizanzo.
+
+<img src"programming-header.jpg">
 
 
 **ADizanzo/ADizanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
