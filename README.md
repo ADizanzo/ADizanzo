@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, I`m Augusto Dizanzo 👋</h1>
+<h1 align="center">Hello, I’m Augusto Dizanzo 👋</h1>
 </div>
 <img src="programming-header.jpg">
 
