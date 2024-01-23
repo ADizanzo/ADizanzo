@@ -59,7 +59,7 @@ About me:
       </a>
       <td align="center" width="96">
       <a href="#Python">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHistoria_de_Python&psig=AOvVaw1Sh-CmQja6n5A3-vbtGPw-&ust=1706109280066000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC55r7m84MDFQAAAAAdAAAAABAD)" width="48" height="48" alt="Python" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHistoria_de_Python&psig=AOvVaw1Sh-CmQja6n5A3-vbtGPw-&ust=1706109280066000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC55r7m84MDFQAAAAAdAAAAABAD)" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
