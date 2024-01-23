@@ -12,7 +12,7 @@
 
 
 About me:
-- 👨‍💻 I`m a Junior Web Programmer
+- 👨‍💻 I’m a Junior Web Programmer
 - 🔭 I’m currently working on personal proyects
 - 🌱 I’m currently learning Java and Python
 - 👨‍💻 All of my projects are available at
