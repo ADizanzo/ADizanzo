@@ -12,7 +12,7 @@
 
 
 About me:
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on personal proyects
 - 🌱 I’m currently learning Java and Python
 - 👨‍💻 All of my projects are available at
 - 📫 How to reach me: augustodizanzo@gmail.com
