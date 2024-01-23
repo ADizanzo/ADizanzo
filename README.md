@@ -47,12 +47,6 @@ About me:
       </a>
       <br>Javascript
     </td>
-     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
-      </a>
-      <br>Nuxt JS
-    </td>
   </tr>
     </td>
       <td align="center" width="96">
